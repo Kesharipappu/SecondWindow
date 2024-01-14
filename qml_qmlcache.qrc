@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="SecondPage.qml">SecondPage.qml</file>
+    </qresource>
+</RCC>
